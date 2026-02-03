@@ -1,8 +1,12 @@
 {
 	"folders": [
 		{
+			"name": "DOCUMENT",
+			"path": "../document/document"
+		},
+		{
 			"path": "."
-		}
+		},
 	],
 	"settings": {}
 }
