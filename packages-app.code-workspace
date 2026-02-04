@@ -13,5 +13,9 @@
 			"path": "./laravel-app/vendor/vendor-path/packages-path"
 		},
 	],
-	"settings": {}
+	"settings": {
+		"intelephense.environment.includePaths": [
+            "./laravel-app/vendor"
+        ],
+	}
 }
