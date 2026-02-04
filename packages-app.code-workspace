@@ -5,12 +5,12 @@
 			"path": "../document/document"
 		},
 		{
-			"name": "PACKAGES APP",
+			"name": "PROJECT APP",
 			"path": "."
 		},
 		{
-			"name": "PACKAGES PATH",
-			"path": "./packages-path"
+			"name": "VENDOR PATH",
+			"path": "./laravel-app/vendor/vendor-path/packages-path"
 		},
 	],
 	"settings": {}
