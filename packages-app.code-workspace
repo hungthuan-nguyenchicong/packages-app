@@ -5,12 +5,12 @@
 			"path": "../document/document"
 		},
 		{
-			"name": "PACKAGES PATH",
-			"path": "./packages-path"
-		},
-		{
 			"name": "PACKAGES APP",
 			"path": "."
+		},
+		{
+			"name": "PACKAGES PATH",
+			"path": "./packages-path"
 		},
 	],
 	"settings": {}
